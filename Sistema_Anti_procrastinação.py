@@ -15,17 +15,33 @@ está_em_trégua = False
 
 # ========== SITES BLOQUEADOS ==========
 sites_bloqueados = [
+    # Redes Sociais
     "YouTube",
     "Instagram",
     "TikTok",
     "Facebook",
     "X",  # Antigo Twitter
     "Reddit",
+    "Snapchat",
+    "Pinterest",
+    "WeChat",
+    "Telegram",
+    # Streaming & Vídeos
     "Netflix",
+    "Amazon Prime",
+    "Disney+",
+    "Crunchyroll",
+    "Vimeo",
+    "Dailymotion",
+    # Plataformas de Comunicação
     "Twitch",
     "Discord",
+    # Música
+    "Spotify",
+    "SoundCloud",
+    "YouTube Music",
+    # Jogos Online
     "Steam",
-    # Sites de jogos online
     "Gamdie",
     "slither.io",
     "roblox.com",
@@ -48,16 +64,30 @@ sites_bloqueados = [
     "Caberet",
     "NitroType",
     "Cartoon Network",
-    "Miniclip",
     "4Jogos",
     "JogosOnline",
-    "Jogos 360",
     "Uol Jogos",
     "Onlinefutbol",
     "Arcade",
     "JogoLegal",
     "BGames",
+    # Comunidades & Fóruns
+    "Quora",
+    "9gag",
+    "Imgur",
+    "Wattpad",
+    # Compras & Marketplace
+    "Amazon",
+    "Mercado Livre",
+    "AliExpress",
+    "eBay",
+    # Outros
+    "Wikipedia",
+    "Medium",
+    "IMDB",
+    "Patreon",
 ]
+
 
 # ========== FUNÇÕES ==========
 def iniciar_trégua():
