@@ -81,6 +81,7 @@ sites_bloqueados = [
     "Mercado Livre",
     "AliExpress",
     "eBay",
+    "Shopee"
     # Outros
     "Wikipedia",
     "Medium",
