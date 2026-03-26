@@ -20,7 +20,7 @@ sites_bloqueados = [
     "Instagram",
     "TikTok",
     "Facebook",
-    "X",  # Antigo Twitter
+    "x.com",  # Antigo Twitter
     "Reddit",
     "Snapchat",
     "Pinterest",
